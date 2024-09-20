@@ -1,6 +1,6 @@
 ﻿namespace Emporium.Common
 {
-    public class Class1
+    public static class EmporiumExtensions
     {
 
     }
